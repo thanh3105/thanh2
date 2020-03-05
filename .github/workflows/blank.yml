@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lazada.vn</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="row bgs">
+        <div class="boxcenter menu1">
+            <ul>
+               <a href="#"><li>TIẾT KIỆM HƠN VỚI ỨNG DỤNG</li></a> 
+               <a href="#"><li>BÁN HÀNG CÙNG LAZADA</li></a> 
+               <a href="#"><li>CHĂM SÓC KHÁCH HÀNG</li></a> 
+               <a href="#"><li>KIỂM TRA ĐƠN HÀNG</li></a> 
+               <a href="file:///D:/HTML/ASM3/dangnhap/index.html"><li>ĐĂNG NHẬP</li></a> 
+               <a href="file:///D:/HTML/ASM3/dangky/index.html"><li>ĐĂNG KÝ</li></a> 
+               <a href="#"><li>CHANGE LANGUAGE</li></a> 
+            </ul>
+        </div>
+    </div>
+    <div class="row row1">
+        <div class="boxcenter button ">
+            <table>
+                <tr>
+                    <td width="20%">
+                        <div class="hinh">
+                        <a href="file:///D:/HTML/ASM3/index.html#"><img src="images/logo.png" alt=""></a>
+                        </div>
+                    </td>
+                    <td width="70%">
+                        <input type="text" name="" id="" placeholder="Bạn muốn tìm gì ?">           
+                    </td>
+                    <td><input type="button" value=" Tìm kiếm"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div class="row bgy">
+        <div class="boxcenter">
+            <div class="boxleft bgw menu1">
+                <ul>
+                   <a href="#"> <li>Thiết bị điện tử</li></a>
+                   <a href="#"> <li>Phụ kiện điện tử</li></a>
+                   <a href="#"> <li>TV & thiết bị điện gia dụng</li></a>
+                   <a href="#"> <li>Sức khỏe & làm đẹp</li></a>
+                   <a href="#"> <li>Hàng mẹ,bé & đồ chơi</li></a>
+                   <a href="#"> <li>Siêu thị tạp hóa</li></a>
+                   <a href="#"> <li>Hàng gia dụng & đời sống</li></a>
+                   <a href="#"> <li>Thời trang nữ</li></a>
+                   <a href="#"> <li>Thời trang nam</li></a>
+                   <a href="#"> <li>Phụ kiện thời trang</li></a>
+                   <a href="#"> <li>Thể thao & du lịch</li></a>
+                   <a href="#"> <li>OOto,xe máy & thiết bị định vị</li></a>
+                </ul>
+            </div>
+            <div class="boxright">
+                <div class="banner">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter thongtin ">
+            <div class="box1 mr">
+                <a href="#">LazMall</a>
+            </div>
+            <div class="box1 mr">
+                <a href="#">Mã Giảm Giá</a>
+            </div>
+            <div class="box1 mr">
+                <a href="#">Dịch Vụ & Nạp Thẻ</a>
+            </div>
+            <div class="box1 ">
+                <a href="#">Hàng Quốc Tế</a>
+            </div>
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter bgw">
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh1.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">1,000Đ</div>
+                    <div class="giagoc">50,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                   <a href="#"> <img src="images/hinh2.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">15,000Đ</div>
+                    <div class="giagoc">93,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh3.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">31,000Đ</div>
+                    <div class="giagoc">69,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh4.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">100,000Đ</div>
+                    <div class="giagoc">250,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh5.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">150,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 ">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh6.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">19,000Đ</div>
+                    <div class="giagoc">150,000Đ</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+    <div class="boxcenter mt">
+        <h2>Bộ Sưu Tập</h2>
+    </div>
+    </div>
+    <div class="row">
+        <div class="boxcenter">
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Đẹp Như Nhã_Về Nhà Đi Con ></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh7.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh7.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh7.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Tông Đơ Cắt Tóc Cho Nam ></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh8.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh8.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh8.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Máy Xay Sinh Tố Giảm Giá ></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh9.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh9.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh9.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Tiết kiệm không gian ></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh11.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh11.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh11.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Sắm "dế yêu" cho năm mới ></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh10.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh10.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh10.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Mua đồ bao phí vận chuyển></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh12.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh12.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh12.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Thực phẩm chế biến sẵn ></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh13.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh13.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh13.2.jpg" alt="">
+
+            </div>
+
+            </div>
+            <div class="box3">
+                <div class="tt2">
+                    <a href="#">Silver Accessories></a>
+                </div>
+            <div class="img mt">
+                <img src="images/hinh14.jpg" alt="">
+            </div>
+            <div class="img mt">
+                <img src="images/hinh14.1.jpg" alt="">
+
+            </div>
+            <div class="img mt">
+                <img src="images/hinh14.2.jpg" alt="">
+
+            </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="boxcenter">
+            <h2>LazMall</h2>
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter">
+            <div class="box4  mr">
+                <img src="images/hinh15.jpg" alt="">
+                <p>Wavlink Official Store</p>
+            </div>
+            <div class="box4  mr">
+                <img src="images/hinh16.jpg" alt="">
+                <p>AFEG OfficiaI Store</p>
+            </div>
+            <div class="box4 mr">
+                <img src="images/hinh17.jpg" alt="">
+                <p>WD</p>
+            </div>
+            <div class="box4  mr">
+                <img src="images/hinh18.jpg" alt="">
+                <p>Ariza Fashion</p>
+            </div>
+            <div class="box4  mr">
+                <img src="images/hinh19.jpg" alt="">
+                <p>Adidas</p>
+            </div>
+            <div class="box4 ">
+                <img src="images/hinh20.jpg" alt="">
+                <p>Hanmini</p>
+            </div>
+           
+        </div>
+    </div>
+    <div class="row">
+        <div class="boxcenter">
+            <h2>Dành riêng cho bạn</h2>
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter bgw">
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh21.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Kéo Tỉa Lông Mũi - Kéo Cắt Tỉa - Kềm Nghĩa - KM-604</a>
+                    <div class="gia">47,000Đ</div>
+                    <div class="giagoc">82,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh23.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Combo 2 Nhíp Gắp Mụn Đầu Đen, Mụn Dưới Da Thông Minh</a>
+                    <div class="gia">15,900Đ</div>
+                    <div class="giagoc">30,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh24.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">HCM - TaiYang King Castella - Combo 4 bánh mini vị Original +...</a>
+                    <div class="gia">331,000Đ</div>
+                    <div class="giagoc">569,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh25.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Áo thun nam form rộng Hàn Quốc in hình Mèo Thần Tài độc đẹp, vải dày mịn mát</a>
+                    <div class="gia">100,000Đ</div>
+                    <div class="giagoc">250,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh26.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Nạp tiền Viettel 20.000 - Nạp tiền trực tiếp Thuê bao trả trước</a>
+                    <div class="gia">18,000Đ</div>
+                    <div class="giagoc">20,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 ">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh27.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc_Uncle Lu's Cheesecake - E-voucher giảm 50k khi mua bánh tại tất cả chi nhánh</a>
+                    <div class="gia">19,000Đ</div>
+                    <div class="giagoc">150,000Đ</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter bgw">
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh27.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Combo 3 Quần Tây Nam Dáng Ôm Vải Tuyết Mưa Co Dãn Không Nhăn</a>
+                    <div class="gia">258,000Đ</div>
+                    <div class="giagoc">500,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh28.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Thuốc lá</a>
+                    <div class="gia">15,000Đ</div>
+                    <div class="giagoc">93,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh29.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">HCM - Evoucher 12 BÁNH BÁNH BÔNG LAN NHẬT MỀM XỐP</a>
+
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">15,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh30.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Kéo cắt lông mũi đầu bo tròn</a>
+
+                    <div class="gia">23,111Đ</div>
+                    <div class="giagoc">40,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh31.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Lamdepdeal - Bộ 10 dao điêu khắc chân mày cao cấp Nhật Bản - Dụng cụ trang điểm.</a>
+
+                    <div class="gia">64,500Đ</div>
+                    <div class="giagoc">75,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 ">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh32.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Toàn quốc - Lotte Cinema - Solo Combo (01 Nước, 01 Bắp) không bù thêm tiền</a>
+                    <div class="gia">19,000Đ</div>
+                    <div class="giagoc">150,000Đ</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter bgw">
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh33.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Cáp sạc dây dù Hoco X14 dài 1M, 2M - cổng MicroUSB - Hỗ Trợ Sạc Nhanh✓Chất Lượng Cao ✓Bảo Hành 6 Tháng</a>
+                    <div class="gia">26,000Đ</div>
+                    <div class="giagoc">50,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh34.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">HẠT GIỐNG CÀ CHUA CHERRY THÁI LAN PN99_GÓI 100MG .</a>
+                    <div class="gia">15,000Đ</div>
+                    <div class="giagoc">93,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh35.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Kính cường lực Xiaomi Redmi Note 8 (Full Màn, Full Keo)
+                    </a>
+                    <div class="gia">31,000Đ</div>
+                    <div class="giagoc">69,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh36.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Đồng hồ sale 30%...</a>
+                    <div class="gia">100,000Đ</div>
+                    <div class="giagoc">250,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh37.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Hộp 1 Thanh Socola KitKat 2F</a>
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">30,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 ">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh38.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Kéo 10 cm thẳng 2 đầu nhọn</a>
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">15,000Đ</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter bgw">
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh39.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Nhíp gắn mi giả</a>
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">20,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh40.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">BỘ TRANG ĐIỂM 9 MON TẶNG KÈM HỘP</a>
+                    <div class="gia">195,000Đ</div>
+                    <div class="giagoc">293,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh41.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">10 Bịch cơm cháy chiên loại ngon (Giòn ngon - Đậm vị) 1 bịch 3 bánh Thương hiệu Nàng Khô</a>
+                    <div class="gia">51,000Đ</div>
+                    <div class="giagoc">69,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh42.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Viền silicon điện thoại hình thú</a>
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">25,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 mr">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh43.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Nước ép bưởi đẹp da, giảm cân Sanga của Hàn Quốc (Combo 5 gói)</a>
+                    <div class="gia">10,000Đ</div>
+                    <div class="giagoc">50,000Đ</div>
+                </div>
+            </div>
+            <div class="box2 ">
+                <div class="hinh1">
+                    <a href="#"><img src="images/hinh44.jpg" alt=""></a>
+                </div>
+                <div class="tt">
+                    <a href="#">Áo Hoodie Nam Mũ Trùm Kết Hợp Dây In Họa Tiết Phối Màu Phong Cách Đường ...</a>
+                    <div class="gia">59,000Đ</div>
+                    <div class="giagoc">150,000Đ</div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row mt">
+        <div class="boxcenter button1">
+            <input type="button" value="Tải thêm">
+        </div>
+    </div>
+    <div class="row bgsss">
+        <div class="boxcenter menu2">
+            <div class="tt1">
+            <h3>LIÊN HỆ VỚI LAZADA</h3>
+            <ul>
+                <a href="#"><li>Thứ 2 đến CN: 9h - 18h (Hotline), 7h - 22h (chat <br>trực tuyến)</li></a>
+                <a href="#"><li>Trung tâm hỗ trợ</li></a>
+                <a href="#"><li>Hướng dẫn đặt hàng</li></a>
+                <a href="#"><li>Giao hàng & nhận hàng</li></a>
+                <a href="#"><li>Chính sách hàng nhập khẩu</li></a>
+                <a href="#"><li>Hướng dẫn đổi trả hàng</li></a>
+            </ul>
+        </div>
+        <div class="tt1">
+            <h3>LAZADA VIỆT NAM</h3>
+            <ul>
+                <a href="#"><li>Về Lazada Việt Nam</li></a>
+                <a href="#"><li>Bán hàng cùng Lazada</li></a>
+                <a href="#"><li>Chương trình Lazada Afﬁliate</li></a>
+                <a href="#"><li>Tuyển dụng</li></a>
+                <a href="#"><li>Điều khoản mua bán hàng hóa</li></a>
+                <a href="#"><li>Chính sách bảo mật</li></a>
+                <a href="#"><li>Báo chí</li></a>
+                <a href="#"><li>Intellectual Property Protection</li></a>
+                <a href="#"><li>Quy chế bán hàng</li></a>
+            </ul>
+        </div>
+        <div class="tt1">
+           <p>CÔNG TY TNHH RECESS
+Giấy CNĐKDN: 0308808576 – Ngày cấp: 06/5/2009, được sửa đổi lần thứ 19 ngày 15/8/2019.
+Cơ quan cấp: Phòng Đăng ký kinh doanh – Sở kế hoạch và Đầu tư TP.HCM
+Địa chỉ đăng ký kinh doanh: Tầng 19, Tòa nhà Saigon Centre – Tháp 2, 67 Lê Lợi, Phường Bến Nghé, Quận 1, Tp. Hồ Chí Minh, Việt Nam.</p> 
+        </div>
+        </div>
+    </div>
+</body>
+</html>
